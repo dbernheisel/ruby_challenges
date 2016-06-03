@@ -13,7 +13,6 @@ Compare with https://gist.github.com/dbernheisel/6f428d9e8bd2dae86778 when you'r
 
 > Your answer here
 
-> Your answer here
 
 ## Big Picture Questions
 
@@ -21,14 +20,9 @@ Compare with https://gist.github.com/dbernheisel/6f428d9e8bd2dae86778 when you'r
 
 > Your answer here
 
-> Your answer here
-
 * Do you think that there are any downsides to Object-Oriented Programming?  If so, what are they?
 
 > Your answer here
-
-> Your answer here
-
 
 
 ## HTTP Questions
